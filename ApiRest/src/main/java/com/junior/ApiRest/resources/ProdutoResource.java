@@ -1,4 +1,4 @@
-package com.junior.ApiRest.resouces;
+package com.junior.ApiRest.resources;
 
 import com.junior.ApiRest.models.Produto;
 import com.junior.ApiRest.repository.ProdutoRepository;
