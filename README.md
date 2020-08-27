@@ -1,2 +1,2 @@
 # API
-Desenvolvendo uma API REST com JAVA
+Desenvolvendo uma API REST com spring
